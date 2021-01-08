@@ -1,0 +1,16 @@
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School.deps.json
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School.runtimeconfig.json
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School.runtimeconfig.dev.json
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School.dll
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/ref/School.dll
+/home/gabriel/Gabriel/Courses/dotnet/School/bin/Debug/net5.0/School.pdb
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.csprojAssemblyReference.cache
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.AssemblyInfoInputs.cache
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.AssemblyInfo.cs
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.csproj.CoreCompileInputs.cache
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.dll
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/ref/School.dll
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.pdb
+/home/gabriel/Gabriel/Courses/dotnet/School/obj/Debug/net5.0/School.genruntimeconfig.cache
