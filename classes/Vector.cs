@@ -20,7 +20,7 @@ namespace School.classes
 		{
 			get
 			{
-				if (i < this._length)
+				if (i < this._length && i >= 0)
 				{
 					return this._array[i];
 				}
@@ -31,9 +31,18 @@ namespace School.classes
 			}
 			set
 			{
-				if (i < this._length)
+				if (i >= 0)
 				{
-					this._array[i] = value;
+					if (i < this._length)
+					{
+						this._array[i] = value;
+					}
+					else
+					{
+						this._length = i;
+						this._validateSize();
+						this._array[i] = value;
+					}
 				}
 				else
 				{
@@ -89,9 +98,13 @@ namespace School.classes
 		{
 			if (this._length >= this._size)
 			{
-				this._size *= 2;
+				while (this._length >= this._size)
+				{
+					this._size *= 2;
+					System.Console.WriteLine("double");
+				}
 				T[] temp = new T[this._size];
-				for (int i = 0; i < this._length; i++)
+				for (int i = 0; i < this._array.Length; i++)
 				{
 					temp[i] = this._array[i];
 				}
